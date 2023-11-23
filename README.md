@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Who%20am%20I?&fontSize=80&fontColor=2F81F7&fontAlignY=50)
 # Hello Everyone!
-My name is Sangmin. I am currently a student at Chung-Ang University. I major in software engineering.
+My name is Sangmin and I'm currently at SNU-VGI lab. Welcome to my github!
 
 # Interst
 - Computer Vision
