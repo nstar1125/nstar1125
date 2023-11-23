@@ -2,7 +2,7 @@
 # Hello Everyone!
 My name is Sangmin and I'm currently at SNU-VGI lab. Welcome to my github!
 
-# Interst
+# Intersts
 - Computer Vision
 - NeRF
 - 3D Human Pose Estimation
