@@ -5,7 +5,7 @@ My name is Sangmin and I'm currently a student at SNU-VGI lab. Welcome to my git
 # Intersts
 - Computer Vision
 - NeRF
-- 3D Human Pose Estimation
+- 3D Gaussian Splatting
 
 # Skills
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
