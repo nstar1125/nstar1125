@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Who%20am%20I?&fontSize=80&fontColor=2F81F7&fontAlignY=50)
-# Hello Everyone!
+# Hello there!
 My name is Sangmin and I'm currently a student at SNU-VGI lab. Welcome to my github!
 
 # Intersts
